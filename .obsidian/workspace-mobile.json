@@ -139,16 +139,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Система ценностей.md",
+                "file": "Бюджет.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Система ценностей"
+              "title": "Бюджет"
+            }
+          },
+          {
+            "id": "6bc5c10f1b3bf926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Показ хаты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Показ хаты"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -328,13 +342,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b0ad3963e98a2182",
+  "active": "6bc5c10f1b3bf926",
   "lastOpenFiles": [
-    "Ролан барт.md",
+    "Бюджет.md",
+    "Показ хаты.md",
+    "TPS/Excalidraw/Drawing 2025-06-23 02.14.31.excalidraw.md",
+    "Детский тектор/Проблематика детского тектора.md",
     "Система ценностей.md",
+    "Ролан барт.md",
     "Сострадательно письмо себе.md",
     "План на вечер.md",
-    "TPS/Excalidraw/Drawing 2025-06-23 02.14.31.excalidraw.md",
     "Генетические исследования.md",
     "TPS/компиляция.md",
     "/TPS/компиляция.md",
@@ -345,8 +362,6 @@
     "/TPS",
     "Режим дня.md",
     "Список актуальных проблем.md",
-    "Бюджет.md",
-    "Детский тектор/Проблематика детского тектора.md",
     "Финансовый вопрос",
     "Синтезатор/Аборты.md",
     "ppupupup",
